@@ -1,5 +1,6 @@
 module.exports = {
   content: ["./public/index.html", "./src/**/*.{html,js}"],
+  darkMode: 'class',
   theme: {
     extend: {
       backgroundImage:{
@@ -12,6 +13,7 @@ module.exports = {
       norway: "url('../img/norway.jpg')",
       sydney: "url('../img/sydney.jpg')",
       miami: "url('../img/miami.jpg')",
+      miami2: "url('../img/miami2.jpg')",
       switzerland: "url('../img/switzerland.jpg')",
       bali: "url('../img/bali.jpg')",
       norway: "url('../img/norway.jpg')",
